@@ -1,0 +1,4 @@
+Student naam: Tarek Alolo
+Student nummer: 632808
+Student klas:INF1C
+url student GitHub:
